@@ -1,0 +1,9 @@
+[13:17:27 2024-11-25] FETCHING Version 2.38.4
+[13:17:27 2024-11-25] CREATING /Users/ryanzhao/.spicetify
+[13:17:27 2024-11-25] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.38.4/spicetify-2.38.4-darwin-arm64.tar.gz
+[13:17:28 2024-11-25] EXTRACTING /Users/ryanzhao/.spicetify/spicetify.tar.gz
+[13:17:28 2024-11-25] SETTING EXECUTABLE PERMISSIONS TO /Users/ryanzhao/.spicetify/spicetify
+[13:17:28 2024-11-25] REMOVING /Users/ryanzhao/.spicetify/spicetify.tar.gz
+[13:17:28 2024-11-25] APPENDING /Users/ryanzhao/.spicetify to PATH in /Users/ryanzhao/.zshrc
+[13:17:28 2024-11-25] spicetify v2.38.4 was installed successfully to /Users/ryanzhao/.spicetify
+[13:17:28 2024-11-25] Run 'spicetify --help' to get started
