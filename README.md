@@ -2,7 +2,7 @@
 Repository containing all of the dotfiles for my setup
 
 To install, just run the 'run.sh' script
-```
+```bash
 # Dry run
 ./run.sh --dry
 # Run specific installation script
